@@ -6,7 +6,7 @@
 <h3 align="center">Estudiante en Ingenieria en Informatica👨🏻‍💻</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Juannnma&show_icons=true&locale=en" alt="Juannnma" /></p>
 
-- 🌱  Acquiring knowledge en **Python, React, HTML, CSS, JavaScript.**
+- 🌱  Acquiring knowledge in **Python, React, HTML, CSS, JavaScript.**
 
 - 📫 How to reach in -->**mjuammartin@gmail.com**
 
