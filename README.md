@@ -1,5 +1,10 @@
-### Hola, soy Juan Martin👋
+<!-- ## Hi, I'm Ollyxs -->
+<p align="center">
+<img title="Ollyxs" alt="Ollyxs" src="https://raw.githubusercontent.com/Juannnma/Juannnma/main/un dia en la oficina.gif"/>
+</a>
+</p>
 
+## Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <!--
 **Juannnma/Juannnma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
