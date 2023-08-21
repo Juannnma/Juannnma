@@ -3,13 +3,15 @@
 <img title="Ollyxs" alt="Ollyxs" src="https://raw.githubusercontent.com/Juannnma/Juannnma/main/un dia en la oficina.gif"/>
 </a>
 </p>
-
-
 <h3 align="center">Estudiante en Ingenieria en Informatica👨🏻‍💻</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Juannnma&show_icons=true&locale=en" alt="Juannnma" /></p>
 
-<h3 align="left">Como contactarme: mjuammartingmail.com📫</h3>
-<p align="left">
-</p>
+- 🌱  Acquiring knowledge en **Python, React, HTML, CSS, JavaScript.**
+
+- 📫 How to reach me -->**mjuammartin@gmail.com**
+
+<h3 align="center"></h3>
+
 <!--
 **Juannnma/Juannnma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
