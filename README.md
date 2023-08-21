@@ -8,7 +8,7 @@
 
 - 🌱  Acquiring knowledge en **Python, React, HTML, CSS, JavaScript.**
 
-- 📫 How to reach me -->**mjuammartin@gmail.com**
+- 📫 How to reach in -->**mjuammartin@gmail.com**
 
 <h3 align="center"></h3>
 
