@@ -4,8 +4,11 @@
 </a>
 </p>
 <h3 align="center">Estudiante en Ingenieria en Informatica👨🏻‍💻</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Juannnma&show_icons=true&locale=en" alt="Juannnma" /></p>
 
+<h3 align="left">My contributions:</h3>
+
+<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-stats.vercel.app/api?username=Juannnma&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true" alt="Nicolas's GitHub stats" /></a>
+<a href="https://github.com/Juannnma" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKAmazing&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true&hide=jupyter%20notebook,html"/></a>
 - 🌱 I'm acquiring appropriate knowledge in **Python, React, HTML, CSS, JavaScript.**
 
 - 📫 How to reach in -->**mjuammartin@gmail.com**
