@@ -15,6 +15,7 @@
 - 🌱 I'm acquiring appropriate knowledge in **Python, React, HTML, CSS, JavaScript.**
 
 - 📫 How to reach in -->**mjuammartin@gmail.com**
+- ![Juannnma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juannnma&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juannnma&layout=donut-vertical)](https://github.com/Juannnma/github-readme-stats)
 
 </div>
