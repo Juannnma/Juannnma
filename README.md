@@ -31,7 +31,6 @@
     <td width="50%">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juannnma&theme=algolia&show_icons=true&count_private=true&include_all_commits=true" />
       <br></br>
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Juannnma&theme=algolia&hide_border=false" /> 
     </td>
     <td width="50%" align="center">
       <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Juannnma&layout=compact&langs_count=10&theme=algolia"/>
