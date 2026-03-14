@@ -1,39 +1,116 @@
-## Hello, I'm Juan Martín! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Juan%20Martín%20Michaux&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+en+Informática;Full+Stack+Developer;Python+%7C+Java+%7C+React;APIs+%E2%80%A2+Microservicios+%E2%80%A2+Web+Apps;Construyendo+proyectos+de+software"/>
+
+</div>
+
+<h2 align="left">👋 Hola, soy Juan Martín!</h2>
 
 <p align="center">
   <img title="Juan Martin" alt="Juan Martin" src="https://raw.githubusercontent.com/Juannnma/Juannnma/main/un%20dia%20en%20la%20oficina.gif"/>
 </p>
 
+<hr style="border:1px solid #00BFFF">
 
-### Skills
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+<h2>👨‍💻 Sobre mí</h2>
 
-### Socials
+🎓 Estudiante avanzado de **Ingeniería en Informática**  
 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/juan-martin-michaux-163464242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+💻 Desarrollador **Full Stack**
 
-## 📊 My GitHub Stats:
-<table align="center">
-  <tr border="none">
-    <td width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juannnma&theme=algolia&show_icons=true&count_private=true&include_all_commits=true" />
-      <br></br>
-    </td>
-    <td width="50%" align="center">
-      <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Juannnma&layout=compact&langs_count=10&theme=algolia"/>
-    </td>
-  </tr>
-</table>
+🚀 Enfocado en el desarrollo de:
 
-<br></br>
+- APIs REST
+- Microservicios
+- Aplicaciones web y móviles
+- Arquitecturas escalables
+
+📍 San Rafael, Mendoza — Argentina
+
+---
+
+<h2>⚡ Tecnologías</h2>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,postgres,mysql,docker,git,github,vscode&theme=dark" />
+
+### Backend
+- Python
+- Java
+- APIs REST
+- Microservicios
+
+### Frontend / Mobile
+- React
+- React Native
+- HTML5
+- CSS3
+
+### Bases de Datos
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### DevOps / Herramientas
+- Docker
+- Git
+- GitHub
+- CI/CD (nociones)
+- Cloud deployment
+
+---
+
+<h2>📊 Estadísticas de GitHub</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juannnma&show_icons=true&include_all_commits=true&count_private=true&theme=algolia"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juannnma&layout=compact&langs_count=8&theme=algolia"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juannnma&theme=algolia" />
+
+</div>
+
+---
+
+<h2>🌐 Contacto</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/juan-martin-michaux-163464242/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:mjuammartin@gmail.com">
+<img src="https://img.shields.io/badge/email-contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Juannnma&label=Visitas%20al%20perfil&color=0e75b6&style=flat"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=120&section=footer"/>
+
+</div>
