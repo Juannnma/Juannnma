@@ -93,9 +93,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:mjuammartin@gmail.com">
-<img src="https://img.shields.io/badge/email-contact-red?style=for-the-badge&logo=gmail"/>
-</a>
 
 </div>
 
