@@ -87,6 +87,8 @@
 
 </div>
 
+<p align="center"><b>🐍 Recorre mis commits</b></p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juannnma/Juannnma/output/github-snake-dark.svg">
