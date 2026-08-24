@@ -87,7 +87,7 @@
 
 </div>
 
-<p align="center"><b>🐍 Recorre mis commits</b></p>
+<p align="center"><b>🐍 Recorre mis commits del año.</b></p>
 
 <div align="center">
   <picture>
