@@ -13,7 +13,7 @@
 <h2 align="left">👋 Hola, soy Juan Martín!</h2>
 
 <p align="center">
-  <img title="Working hard" alt="Juan Martín trabajando" src="https://raw.githubusercontent.com/Juannnma/Juannnma/main/workingHard.gif"/>
+  <img title="Working hard" alt="Juan Martín trabajando" src="./workingHard.gif"/>
 </p>
 
 <!-- GIF anterior:
