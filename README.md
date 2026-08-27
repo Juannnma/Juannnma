@@ -10,10 +10,10 @@
 
 </div>
 
-<h2 align="left">👋 Hola, soy Juan Martín!</h2>
+<h2 align="center">👋 Hola, soy Juan Martín!</h2>
 
 <p align="center">
-  <img title="Working hard" alt="Juan Martín trabajando" src="./workingHard.gif"/>
+  <img width="540" title="Working hard" alt="Juan Martín trabajando" src="./workingHard.gif"/>
 </p>
 
 <!-- GIF anterior:
@@ -21,8 +21,6 @@
   <img title="Juan Martin" alt="Juan Martin" src="https://raw.githubusercontent.com/Juannnma/Juannnma/main/un%20dia%20en%20la%20oficina.gif"/>
 </p>
 -->
-
-<hr style="border:1px solid #A855F7">
 
 <h2>👨‍💻 Sobre mí</h2>
 
@@ -55,31 +53,12 @@
 
 </p>
 
-
-
-### Backend
-- Python
-- Java
-- APIs REST
-- Microservicios
-
-### Frontend / Mobile
-- React
-- React Native
-- HTML5
-- CSS3
-
-### Bases de Datos
-- PostgreSQL
-- MySQL
-- MongoDB
-
-### DevOps / Herramientas
-- Docker
-- Git
-- GitHub
-- CI/CD (nociones)
-- Cloud deployment
+<p>
+  <b>Backend:</b> Python · Java · APIs REST · Microservicios<br>
+  <b>Frontend / Mobile:</b> React · React Native · HTML5 · CSS3<br>
+  <b>Bases de datos:</b> PostgreSQL · MySQL · MongoDB<br>
+  <b>DevOps y herramientas:</b> Docker · Git · GitHub · CI/CD · Cloud deployment
+</p>
 
 ---
 
@@ -87,9 +66,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Juannnma&show_icons=true&include_all_commits=true&count_private=true&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Juannnma&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"/>
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Juannnma&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Juannnma&layout=compact&langs_count=8&theme=midnight-purple"/>
 
 </div>
 
