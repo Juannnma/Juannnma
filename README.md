@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Juan%20Martín%20Michaux&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0a1f,50:4c1d95,100:a855f7&height=200&section=header&text=Juan%20Martín%20Michaux&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+en+Informática;Full+Stack+Developer;Python+%7C+Java+%7C+React;APIs+%E2%80%A2+Microservicios+%E2%80%A2+Web+Apps;Construyendo+proyectos+de+software"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+en+Informática;Full+Stack+Developer;Python+%7C+Java+%7C+React;APIs+%E2%80%A2+Microservicios+%E2%80%A2+Web+Apps;Construyendo+proyectos+de+software"/>
 
 </div>
 
@@ -16,7 +16,7 @@
   <img title="Juan Martin" alt="Juan Martin" src="https://raw.githubusercontent.com/Juannnma/Juannnma/main/un%20dia%20en%20la%20oficina.gif"/>
 </p>
 
-<hr style="border:1px solid #00BFFF">
+<hr style="border:1px solid #A855F7">
 
 <h2>👨‍💻 Sobre mí</h2>
 
@@ -87,7 +87,7 @@
 
 </div>
 
-<p align="center"><b>🐍 Recorre mis commits del año.</b></p>
+<p align="center"><b>🐍 Mi año en código, commit a commit.</b></p>
 
 <div align="center">
   <picture>
@@ -114,7 +114,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Juannnma&label=Visitas%20al%20perfil&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Juannnma&label=Visitas%20al%20perfil&color=7c3aed&style=flat"/>
 
 </div>
 
@@ -122,6 +122,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0a1f,50:4c1d95,100:a855f7&height=120&section=footer"/>
 
 </div>
