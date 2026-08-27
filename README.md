@@ -87,7 +87,7 @@
 
 </div>
 
-<p align="center"><b>🐍 Mi año en código, commit a commit.</b></p>
+<h3 align="center">🐍 Mi año en código, commit a commit.</h3>
 
 <div align="center">
   <picture>
